@@ -1,0 +1,296 @@
+C:\Users\hakkicannn\source\repos\AdressProject\obj\Debug\netcoreapp3.0\staticwebassets\AdressProject.StaticWebAssets.Manifest.cache
+C:\Users\hakkicannn\source\repos\AdressProject\obj\Debug\netcoreapp3.0\staticwebassets\AdressProject.StaticWebAssets.xml
+C:\Users\hakkicannn\source\repos\AdressProject\obj\Debug\netcoreapp3.0\AdressProject.RazorAssemblyInfo.cache
+C:\Users\hakkicannn\source\repos\AdressProject\obj\Debug\netcoreapp3.0\AdressProject.RazorAssemblyInfo.cs
+C:\Users\hakkicannn\source\repos\AdressProject\obj\Debug\netcoreapp3.0\AdressProject.AssemblyInfoInputs.cache
+C:\Users\hakkicannn\source\repos\AdressProject\obj\Debug\netcoreapp3.0\AdressProject.AssemblyInfo.cs
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\AdressProject.exe
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\AdressProject.deps.json
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\AdressProject.runtimeconfig.json
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\AdressProject.runtimeconfig.dev.json
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\AdressProject.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\AdressProject.pdb
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\AdressProject.Views.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\AdressProject.Views.pdb
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\Microsoft.Bcl.HashCode.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\System.Collections.Immutable.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hakkicannn\source\repos\AdressProject\obj\Debug\netcoreapp3.0\AdressProject.TagHelpers.input.cache
+C:\Users\hakkicannn\source\repos\AdressProject\obj\Debug\netcoreapp3.0\AdressProject.TagHelpers.output.cache
+C:\Users\hakkicannn\source\repos\AdressProject\obj\Debug\netcoreapp3.0\AdressProject.RazorCoreGenerate.cache
+C:\Users\hakkicannn\source\repos\AdressProject\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\hakkicannn\source\repos\AdressProject\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\hakkicannn\source\repos\AdressProject\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\hakkicannn\source\repos\AdressProject\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\hakkicannn\source\repos\AdressProject\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\hakkicannn\source\repos\AdressProject\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\hakkicannn\source\repos\AdressProject\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\hakkicannn\source\repos\AdressProject\obj\Debug\netcoreapp3.0\AdressProject.RazorTargetAssemblyInfo.cache
+C:\Users\hakkicannn\source\repos\AdressProject\obj\Debug\netcoreapp3.0\AdressProject.RazorTargetAssemblyInfo.cs
+C:\Users\hakkicannn\source\repos\AdressProject\obj\Debug\netcoreapp3.0\AdressProject.Views.pdb
+C:\Users\hakkicannn\source\repos\AdressProject\obj\Debug\netcoreapp3.0\AdressProject.csproj.CopyComplete
+C:\Users\hakkicannn\source\repos\AdressProject\obj\Debug\netcoreapp3.0\AdressProject.dll
+C:\Users\hakkicannn\source\repos\AdressProject\obj\Debug\netcoreapp3.0\AdressProject.pdb
+C:\Users\hakkicannn\source\repos\AdressProject\obj\Debug\netcoreapp3.0\AdressProject.csprojAssemblyReference.cache
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hakkicannn\source\repos\AdressProject\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hakkicannn\source\repos\AdressProject\obj\Debug\netcoreapp3.0\AdressProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hakkicannn\source\repos\AdressProject\obj\Debug\netcoreapp3.0\Razor\Views\Adress\Index.cshtml.g.cs
+C:\Users\hakkicannn\source\repos\AdressProject\obj\Debug\netcoreapp3.0\Razor\Views\Adress\Details.cshtml.g.cs
+C:\Users\hakkicannn\source\repos\AdressProject\obj\Debug\netcoreapp3.0\Razor\Views\Adress\Edit.cshtml.g.cs
+C:\Users\hakkicannn\source\repos\AdressProject\obj\Debug\netcoreapp3.0\Razor\Views\Adress\Create.cshtml.g.cs
+C:\Users\hakkicannn\source\repos\AdressProject\obj\Debug\netcoreapp3.0\Razor\Views\Adress\Delete.cshtml.g.cs
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\obj\Debug\netcoreapp3.0\AdressProject.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\obj\Debug\netcoreapp3.0\AdressProject.pdb
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\AdressProject.exe
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\AdressProject.deps.json
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\AdressProject.runtimeconfig.json
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\AdressProject.runtimeconfig.dev.json
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\AdressProject.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\AdressProject.pdb
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\AdressProject.Views.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\AdressProject.Views.pdb
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\Microsoft.Bcl.HashCode.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\System.Collections.Immutable.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\obj\Debug\netcoreapp3.0\AdressProject.csprojAssemblyReference.cache
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\obj\Debug\netcoreapp3.0\staticwebassets\AdressProject.StaticWebAssets.Manifest.cache
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\obj\Debug\netcoreapp3.0\staticwebassets\AdressProject.StaticWebAssets.xml
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\obj\Debug\netcoreapp3.0\AdressProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\obj\Debug\netcoreapp3.0\AdressProject.RazorAssemblyInfo.cache
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\obj\Debug\netcoreapp3.0\AdressProject.RazorAssemblyInfo.cs
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\obj\Debug\netcoreapp3.0\AdressProject.AssemblyInfoInputs.cache
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\obj\Debug\netcoreapp3.0\AdressProject.AssemblyInfo.cs
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\obj\Debug\netcoreapp3.0\AdressProject.TagHelpers.input.cache
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\obj\Debug\netcoreapp3.0\AdressProject.TagHelpers.output.cache
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\obj\Debug\netcoreapp3.0\AdressProject.RazorCoreGenerate.cache
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\obj\Debug\netcoreapp3.0\Razor\Views\Adress\Create.cshtml.g.cs
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\obj\Debug\netcoreapp3.0\Razor\Views\Adress\Delete.cshtml.g.cs
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\obj\Debug\netcoreapp3.0\Razor\Views\Adress\Details.cshtml.g.cs
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\obj\Debug\netcoreapp3.0\Razor\Views\Adress\Edit.cshtml.g.cs
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\obj\Debug\netcoreapp3.0\Razor\Views\Adress\Index.cshtml.g.cs
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\obj\Debug\netcoreapp3.0\AdressProject.RazorTargetAssemblyInfo.cache
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\obj\Debug\netcoreapp3.0\AdressProject.RazorTargetAssemblyInfo.cs
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\obj\Debug\netcoreapp3.0\AdressProject.Views.pdb
+C:\Users\Ebru\Desktop\Gite Atılacaklar\Address Book\AdressProject\obj\Debug\netcoreapp3.0\AdressProject.csproj.CopyComplete
